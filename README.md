@@ -17,3 +17,9 @@
     THEN they fall in sequential order
     WHEN I view the title element
     THEN I find a concise, descriptive title
+
+
+## Video Resources
+    Byte Grad on YT: https://www.youtube.com/watch?v=bOUhq46fd5g&t=195s&ab_channel=ByteGrad
+    Hubspot Marketing: https://www.youtube.com/watch?v=-jn9aaNn8_I&ab_channel=HubSpotMarketing
+    
