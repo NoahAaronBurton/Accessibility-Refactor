@@ -20,11 +20,11 @@
     <a href="https://github.com/NoahAaronBurton/Accessibility-Refactor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/NoahAaronBurton/Accessibility-Refactor">View Demo</a>
+    <a href="https://noahaaronburton.github.io/Accessibility-Refactor/">View Website on GitHub Pages</a>
     ·
     <a href="https://github.com/NoahAaronBurton/Accessibility-Refactor/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/NoahAaronBurton/Accessibility-Refactor/issues">Request Feature</a>
+    
+    
   </p>
 </div>
 
