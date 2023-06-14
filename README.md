@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com//Accessibility-Refactor">
-   <img src="Develop/assets/images/Screen Shot 2023-06-14 at 12.01.30 PM.png" />
+   <img src="assets/images/horiseon-logo.png" />
   </a>
 
 <h3 align="center">Horiseon Accessibility Refactor</h3>
@@ -61,104 +61,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="assets/images/website-preview.png" />
+<br/>
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `NoahAaronBurton`, `Accessibility-Refactor`, ``, `linkedin_username`, `email_client`, `email`, `Horiseon Accessibility Refactor`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+This repo contains a refactor of Horiseon's website for SEO and accessibility purposes. This was assigned to me as the Module One Challenge for my coding bootcamp through the University of Utah. I have added semantic HTML elements as well as refactored the CSS for conciseness. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/NoahAaronBurton/Accessibility-Refactor.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/NoahAaronBurton/Accessibility-Refactor/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Click "Explore the docs" at the top of this page to view the code on GitHub.
+<br/> Or, select "View Website on GitHub Pages" to find the deployed site.
 
 
 <!-- LICENSE -->
@@ -173,7 +87,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@](https://twitter.com/) - email@email_client.com
+Noah Burton - nburton115@gmail.com
 
 Project Link: [https://github.com/NoahAaronBurton/Accessibility-Refactor](https://github.com/NoahAaronBurton/Accessibility-Refactor)
 
@@ -183,10 +97,13 @@ Project Link: [https://github.com/NoahAaronBurton/Accessibility-Refactor](https:
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+The following videos were referenced during the refactoring phase of this project
+* [ByteGrad on YouTube](https://www.youtube.com/watch?v=bOUhq46fd5g&t=195s&ab_channel=ByteGrad)
+* [Hubspot Marketing on Youtube](https://www.youtube.com/watch?v=-jn9aaNn8_I&ab_channel=HubSpotMarketing)
 
-* []()
-* []()
-* []()
+Thank you to [vi-dev0 on Github](https://github.com/vi-dev0) for the README.md template used for this project.
+
+[Link to template repo](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -224,7 +141,3 @@ Project Link: [https://github.com/NoahAaronBurton/Accessibility-Refactor](https:
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
-
-## Video Resources
-    Byte Grad on YT: https://www.youtube.com/watch?v=bOUhq46fd5g&t=195s&ab_channel=ByteGrad
-    Hubspot Marketing: https://www.youtube.com/watch?v=-jn9aaNn8_I&ab_channel=HubSpotMarketing
