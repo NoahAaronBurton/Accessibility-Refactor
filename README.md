@@ -37,19 +37,13 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -97,6 +91,9 @@ Project Link: [https://github.com/NoahAaronBurton/Accessibility-Refactor](https:
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+<strong>Starter code provided by [Xandromus](https://github.com/coding-boot-camp/urban-octo-telegram) </strong>
+<br/>
+
 The following videos were referenced during the refactoring phase of this project
 * [ByteGrad on YouTube](https://www.youtube.com/watch?v=bOUhq46fd5g&t=195s&ab_channel=ByteGrad)
 * [Hubspot Marketing on Youtube](https://www.youtube.com/watch?v=-jn9aaNn8_I&ab_channel=HubSpotMarketing)
